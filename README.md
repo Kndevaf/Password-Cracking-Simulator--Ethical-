@@ -23,5 +23,3 @@ No real cracking or malicious behavior is performed.
 -  JavaScript (ES6)
 
 ---
-
-## Project Structure
